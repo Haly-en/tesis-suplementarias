@@ -1,0 +1,83 @@
+"Phylum","Class","Organism_name","Organism","Number_of_rpoN_genes","Total_organisms_per_class"
+"Pseudomonadota","Betaproteobacteria","Mycetohabitans rhizoxinica HKI 454 (Burkholderia rhizoxinica HKI 454), endosymbiont of Rhizopus microsporus","brh",2,139
+"Pseudomonadota","Betaproteobacteria","Roseateles depolymerans KCTC 42856","rdp",2,139
+"Pseudomonadota","Gammaproteobacteria","Thioalkalivibrio nitratireducens DSM 14787","tni",2,279
+"Bacillota","Bacilli","Viridibacillus sp. JNUCC-6","vij",2,122
+"Myxococcota","Myxococcia","Vulgatibacter incomptus DSM 27710","vin",2,8
+"Pseudomonadota","Betaproteobacteria","Pusillimonas sp. T7-7","put",2,139
+"Pseudomonadota","Gammaproteobacteria","Solimonas sp. K1W22B-7","sok",2,279
+"Pseudomonadota","Betaproteobacteria","Paracidovorax avenae ATCC 19860","aaa",2,139
+"Pseudomonadota","Betaproteobacteria","Castellaniella defragrans 65Phen","cdn",2,139
+"Pseudomonadota","Betaproteobacteria","Azoarcus sp. KH32C","aza",2,139
+"Pseudomonadota","Betaproteobacteria","Rubrivivax gelatinosus IL144","rge",2,139
+"Bacillota","Clostridia","Acetoanaerobium sticklandii DSM 519","cst",2,107
+"Pseudomonadota","Betaproteobacteria","Hydrogenophaga sp. BPS33","hyn",2,139
+"Pseudomonadota","Betaproteobacteria","Ramlibacter tataouinensis TTB310","rta",2,139
+"Bacillota","Bacilli","Lysinibacillus sp. B2A1","lyb",2,122
+"Bacillota","Negativicutes","Megasphaera elsdenii DSM 20460","med",2,10
+"Pseudomonadota","Alphaproteobacteria","Neorhizobium galegae bv. orientalis HAMBI 540","ngg",2,233
+"Pseudomonadota","Betaproteobacteria","Caballeronia sp. SBC2","caba",2,139
+"Pseudomonadota","Betaproteobacteria","Ralstonia pickettii 12J","rpi",2,139
+"Pseudomonadota","Alphaproteobacteria","Pseudogemmobacter blasticus 28/5","rbl",2,233
+"Pseudomonadota","Betaproteobacteria","Achromobacter xylosoxidans A8","axy",2,139
+"Pseudomonadota","Gammaproteobacteria","Xanthomonas euvesicatoria pv. vesicatoria 85-10 (Xanthomonas campestris pv. vesicatoria 85-10)","xcv",2,279
+"Bacteroidota","Chitinophagia","Niastella koreensis GR20-10","nko",2,13
+"Actinomycetota","Coriobacteriia","Eggerthella guodeyinii HF-1101","egd",2,15
+"Pseudomonadota","Betaproteobacteria","Caldimonas brevitalea DSM 7029 (Polyangium brachysporum DSM 7029)","pbh",2,139
+"Pseudomonadota","Betaproteobacteria","Roseateles sp. DAIF2","kia",2,139
+"Pseudomonadota","Betaproteobacteria","Pigmentiphaga aceris Mada1488","pacr",2,139
+"Bacillota","Erysipelotrichia","Longicatena caecimuris 3BBH23","lcg",2,10
+"Pseudomonadota","Betaproteobacteria","Mitsuaria sp. 7","miu",2,139
+"Pseudomonadota","Gammaproteobacteria","Thermomonas brevis KACC 16975","tbv",2,279
+"Pseudomonadota","Alphaproteobacteria","Sinorhizobium meliloti 1021, endosymbiont of Medicago sativa and Medicago truncatula","sme",2,233
+"Pseudomonadota","Gammaproteobacteria","Paraglaciecola psychrophila 170 (Glaciecola psychrophila 170)","gps",2,279
+"Pseudomonadota","Gammaproteobacteria","Pseudoxanthomonas mexicana GTZY","pmex",2,279
+"Bacteroidota","Chitinophagia","Filimonas lacunae NBRC 104114","fln",2,13
+"Bacillota","Bacilli","Rossellomorea vietnamensis 151-6 (Bacillus vietnamensis 151-6)","bvq",2,122
+"Pseudomonadota","Gammaproteobacteria","Flagellatimonas centrodinii R2A-3","fce",2,279
+"Bacteroidota","Chitinophagia","Flavisolibacter ginsenosidimutans Gsoil 636","fgg",2,13
+"Pseudomonadota","Alphaproteobacteria","Gluconacetobacter diazotrophicus PA1 5 (Brazil)","gdi",2,233
+"Bacillota","Clostridia","Peptacetobacter hiranonis DSM 13275","phx",2,107
+"Pseudomonadota","Betaproteobacteria","Bordetella flabilis AU10664","bfz",2,139
+"Pseudomonadota","Betaproteobacteria","Alcaligenes faecalis ZD02","afa",2,139
+"Pseudomonadota","Betaproteobacteria","Thiobacillus denitrificans ATCC 25259","tbd",2,139
+"Bacteroidota","Chitinophagia","Flavihumibacter fluvii IMCC34837 (Flavihumibacter fluminis (ex Park et al. 2022) IMCC34837)","flc",2,13
+"Campylobacterota","Epsilonproteobacteria","Sulfurimonas lithotrophica GYSZ_1","sulg",2,18
+"Pseudomonadota","Gammaproteobacteria","Serratia fonticola GS2","sfg",2,279
+"Bacillota","Bacilli","Dolosigranulum pigrum 83VPs-KB5","dpm",2,122
+"Pseudomonadota","Alphaproteobacteria","Ochrobactrum quorumnocens A44 (Ochrobactrum sp. A44)","och",2,233
+"Pseudomonadota","Betaproteobacteria","Ralstonia pseudosolanacearum GMI1000 (Ralstonia solanacearum GMI1000)","rso",2,139
+"Pseudomonadota","Gammaproteobacteria","Simiduia agarivorans SA1 = DSM 21679","saga",2,279
+"Pseudomonadota","Gammaproteobacteria","Atlantibacter hermannii NCTC12129","ahn",2,279
+"Bacteroidota","Chitinophagia","Pseudobacter ginsenosidimutans Gsoil 221","pgo",2,13
+"Pseudomonadota","Alphaproteobacteria","Chelativorans sp. BNC1","mes",2,233
+"Bacillota","Bacilli","Hydrogenibacillus sp. N12","hyi",2,122
+"Campylobacterota","Epsilonproteobacteria","Sulfurospirillum multivorans DSM 12446","smul",2,18
+"Pseudomonadota","Gammaproteobacteria","Stenotrophomonas maltophilia D457","smz",2,279
+"Bacteroidota","Cytophagia","Emticicia oligotrophica DSM 17448","eol",2,28
+"Bacillota","Bacilli","Peribacillus butanolivorans PHB-7a","pbut",2,122
+"Pseudomonadota","Alphaproteobacteria","Methylobacterium nodulans ORS 2060","mno",2,233
+"Pseudomonadota","Gammaproteobacteria","Luteimonas chenhongjianii 100111","lum",2,279
+"Pseudomonadota","Gammaproteobacteria","Paraphotobacterium marinum NSCS20N07D","pmai",2,279
+"Bacillota","Clostridia","Anaerostipes caccae DSM 14662","acac",2,107
+"Pseudomonadota","Betaproteobacteria","Aquabacterium olei NBRC 110486","aon",2,139
+"Pseudomonadota","Betaproteobacteria","Delftia lacustris FDAARGOS_890","dla",2,139
+"Campylobacterota","Epsilonproteobacteria","Wolinella succinogenes DSM 1740","wsu",2,18
+"Campylobacterota","Epsilonproteobacteria","Sulfuricurvum kujiense DSM 16994","sku",2,18
+"Pseudomonadota","Alphaproteobacteria","Bradyrhizobium diazoefficiens USDA 110, endosymbiont of Glycine max (soybean) (Bradyrhizobium japonicum USDA110)","bja",2,233
+"Pseudomonadota","Betaproteobacteria","Paraburkholderia hospita DSM 17164","phs",2,139
+"Bacillota","Bacilli","Melissococcus plutonius ATCC 35311","mps",2,122
+"Bacteroidota","Chitinophagia","Paraflavitalea soli 5GH32-13","pseg",2,13
+"Pseudomonadota","Betaproteobacteria","Burkholderia sp. YI23","byi",2,139
+"Bacteroidota","Saprospiria","Haliscomenobacter hydrossis DSM 1100","hhy",2,2
+"Pseudomonadota","Betaproteobacteria","Rugosibacter aromaticivorans Ca6 (Rhodocyclaceae bacterium PG1-Ca6)","rbu",2,139
+"Pseudomonadota","Alphaproteobacteria","Mesorhizobium loti NZP2037","mln",3,233
+"Pseudomonadota","Betaproteobacteria","Paralcaligenes sp. KSB-10","park",3,139
+"Bacteroidota","Cytophagia","Runella sp. SP2","rup",3,28
+"Bacteroidota","Cytophagia","Arcticibacterium luteifluviistationis SM1504","als",3,28
+"Bacillota","Bacilli","Paenisporosarcina antarctica CGMCC 1.6503","panc",3,122
+"Pseudomonadota","Betaproteobacteria","Sulfuriferula plumbiphila Gro7","splb",3,139
+"Pseudomonadota","Betaproteobacteria","Piscinibacter gummiphilus NS21 (Rhizobacter gummiphilus NS21)","rgu",3,139
+"Pseudomonadota","Alphaproteobacteria","Cereibacter sphaeroides 2.4.1 (Rhodobacter sphaeroides 2.4.1)","rsp",4,233
+"Pseudomonadota","Alphaproteobacteria","Frigidibacter mobilis cai42 (Defluviimonas alba cai42)","daa",4,233
+"Pseudomonadota","Gammaproteobacteria","Cycloclasticus zancles 78-ME","cza",4,279
